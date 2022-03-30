@@ -66,7 +66,7 @@ namespace ForgedCurse.Json
         /// <summary>
         /// The dependencies for this addon
         /// </summary>
-        public Dependency[] Dependecies { get; set; }
+        public Dependency[] Dependencies { get; set; }
 
         /// <summary>
         /// Boolean value representing whether or not the file is available
